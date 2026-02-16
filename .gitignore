@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# allow only smvitm folder and script
+!smvitm/
+!smvitm/**
+!smvitm.sh
+!.gitignore
